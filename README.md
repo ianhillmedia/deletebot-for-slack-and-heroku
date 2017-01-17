@@ -6,7 +6,7 @@ Added to Heroku: https://github.com/ianhillmedia/slackbot-for-heroku
 
 Delete old files: https://gist.github.com/thesoftwarejedi/d78af9ee12b7f7a9d3e7
 
-# HOW TO DEPLOY
+# STEP-BY-STEP HOW TO DEPLOY
 
 Download and install the Heroku CLI from https://devcenter.heroku.com/articles/heroku-cli
 
