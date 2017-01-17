@@ -1,5 +1,13 @@
 # deletebot-for-slack-and-heroku
 
+Deletes files in public channels that are older than 30 days.
+
+To change the timeframe, change the number in this command in run.py:
+
+`timedelta(-30))`
+
+Built using:
+
 Basic Slackbot: https://www.fullstackpython.com/blog/build-first-slack-bot-python.html
 
 Delete old files: https://gist.github.com/thesoftwarejedi/d78af9ee12b7f7a9d3e7
