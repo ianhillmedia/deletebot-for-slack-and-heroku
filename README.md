@@ -2,8 +2,6 @@
 
 Basic Slackbot: https://www.fullstackpython.com/blog/build-first-slack-bot-python.html
 
-Added to Heroku: https://github.com/ianhillmedia/slackbot-for-heroku
-
 Delete old files: https://gist.github.com/thesoftwarejedi/d78af9ee12b7f7a9d3e7
 
 # STEP-BY-STEP HOW TO DEPLOY
