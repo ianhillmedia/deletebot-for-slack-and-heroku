@@ -34,7 +34,7 @@ def handle_command(command, channel):
         if __name__ == '__main__':
             while 1:
                 files_list_url = 'https://slack.com/api/files.list'
-                date = str(calendar.timegm((datetime.now() + timedelta(-1))
+                date = str(calendar.timegm((datetime.now() + timedelta(-30))
                     .utctimetuple()))
                 data = {"token": _token, "ts_to": date}
                 response = requests.post(files_list_url, data = data)
